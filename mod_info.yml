@@ -1,0 +1,8 @@
+mod_info:
+  description_file: README.md
+  summary: Some custom graphics required by mod ufo. All credits go to Hurricane046, who made them available on Factorio Buildings.
+  title: Assets for Use Fulgoran Objects
+  attach_source_link: true
+  license: CC BY 4.0
+  category: internal
+

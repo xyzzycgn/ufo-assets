@@ -1,0 +1,9 @@
+{
+  "name": "ufo-assets",
+  "title": "Assets for Use Fulgoran Objects",
+  "description": "Some custom graphics required by mod ufo. All credits go to Hurricane046, who made them available on Factorio Buildings.\n\nIt does not offer any additional game features itself.",
+  "author": "xyzzycgn",
+  "version": "1.0.0",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0.0"]
+}
