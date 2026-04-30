@@ -3,3 +3,8 @@ Version: 1.0.0
 Date: 2026-04-29
   Major Features:
     - Initial version
+---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2026-04-30
+  Bugfixes:
+    - graphics were not included by the build
